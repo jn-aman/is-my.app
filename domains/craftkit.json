@@ -1,0 +1,6 @@
+{
+  "$schema": "../schema/domain.schema.json",
+  "owner": { "github": "aetheramjah" },
+  "description": "CraftKit APK store",
+  "records": { "CNAME": "aetheramjah.github.io" }
+}
