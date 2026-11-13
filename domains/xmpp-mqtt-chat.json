@@ -1,0 +1,13 @@
+{
+  "$schema": "../schema/domain.schema.json",
+  "owner": {
+    "github": "ShinigameBR",
+    "email": "shingamecontato@gmail.com"
+  },
+  "description": "XMPP MQTT Chat",
+  "records": {
+    "TXT": [
+      "subdomain-owner-verification=b57d6a5ee8a10e2b6ccb53465fbcf441"
+    ]
+  }
+}
