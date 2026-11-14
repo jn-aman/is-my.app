@@ -1,13 +1,9 @@
 {
-  "$schema": "../schema/domain.schema.json",
   "owner": {
     "github": "ShinigameBR",
-    "email": "shinigamecontato@gmail.com"
   },
   "description": "XMPP MQTT Chat",
   "records": {
-    "CNAME": [
-      "xmpp-mqtt-chat.netlify.app"
-    ]
+    "CNAME": "xmpp-mqtt-chat.netlify.app"
   }
 }
