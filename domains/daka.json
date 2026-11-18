@@ -1,0 +1,6 @@
+{
+  "$schema": "../schema/domain.schema.json",
+  "owner": { "github": "9499758-wq" },
+  "description": "打卡中国: light up a footprint map of China, friends, live quiz rooms and leaderboards",
+  "records": { "CNAME": "aiym168.github.io" }
+}

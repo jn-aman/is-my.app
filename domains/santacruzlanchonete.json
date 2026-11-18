@@ -1,0 +1,10 @@
+{
+  "$schema": "../schema/domain.schema.json",
+  "owner": {
+    "github": "BrunoSouzaSilv"
+  },
+  "description": "Santa Cruz Lanchonete - cardapio digital",
+  "records": {
+    "A": ["184.107.88.209"]
+  }
+}

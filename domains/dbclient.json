@@ -1,0 +1,10 @@
+{
+  "$schema": "../schema/domain.schema.json",
+  "owner": {
+    "github": "kamaludin68"
+  },
+  "description": "DBeaver Web - Multi-Database Client for PostgreSQL, MongoDB, ClickHouse",
+  "records": {
+    "CNAME": "kamaludin68.github.io"
+  }
+}

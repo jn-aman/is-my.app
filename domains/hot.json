@@ -1,0 +1,10 @@
+{
+  "$schema": "../schema/domain.schema.json",
+  "owner": {
+    "github": "9499758-wq"
+  },
+  "description": "Chinese daily trending topics aggregator (news hot lists)",
+  "records": {
+    "CNAME": "aiym168.github.io"
+  }
+}

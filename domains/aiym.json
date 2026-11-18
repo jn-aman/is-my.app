@@ -1,0 +1,6 @@
+{
+  "$schema": "../schema/domain.schema.json",
+  "owner": { "github": "9499758-wq" },
+  "description": "AI大模型免费资源导航: free AI model offers, API price radar and deals, updated daily",
+  "records": { "CNAME": "aiym168.github.io" }
+}

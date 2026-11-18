@@ -1,0 +1,10 @@
+{
+  "$schema": "../schema/domain.schema.json",
+  "owner": {
+    "github": "9499758-wq"
+  },
+  "description": "AI 羊毛信号站: 24/7 live audio bulletin of free AI model offers plus a real-time LLM API gateway radar",
+  "records": {
+    "CNAME": "aiym168.github.io"
+  }
+}

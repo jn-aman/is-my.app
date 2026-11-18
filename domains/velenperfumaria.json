@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/domain.schema.json",
+  "owner": {
+    "github": "BrunoSouzaSilv"
+  },
+  "description": "Velen Perfumaria - loja de perfumes de curadoria",
+  "records": {
+    "A": [
+      "184.107.88.209"
+    ]
+  }
+}

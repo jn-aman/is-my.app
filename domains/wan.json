@@ -1,0 +1,10 @@
+{
+  "$schema": "../schema/domain.schema.json",
+  "owner": {
+    "github": "9499758-wq"
+  },
+  "description": "Chinese fun hub: daily hot lists, multiplayer drawing game, typing practice, online tools",
+  "records": {
+    "CNAME": "aiym168.github.io"
+  }
+}

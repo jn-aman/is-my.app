@@ -1,0 +1,12 @@
+{
+    "records":  {
+                    "A":  [
+                              "184.107.88.209"
+                          ]
+                },
+    "description":  "Esley Danner - portfolio de edicao de video",
+    "$schema":  "../schema/domain.schema.json",
+    "owner":  {
+                  "github":  "BrunoSouzaSilv"
+              }
+}

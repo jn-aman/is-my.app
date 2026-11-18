@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "github": "ShinigameBR"
+  },
+  "description": "XMPP MQTT Chat",
+  "records": {
+    "CNAME": "xmpp-mqtt-chat.netlify.app"
+  }
+}
