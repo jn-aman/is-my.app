@@ -4,6 +4,7 @@
   },
   "description": "A widget based todo app ",
   "records": {
-    "CNAME": "3bb24cfeee143234.vercel-dns-017.com."
+    "CNAME": "3bb24cfeee143234.vercel-dns-017.com.",
+    "TXT" : "google-site-verification=mizkWTAZB1FZ00vEiyaNU3yw5-1vD3-pIPf7LZ8tYQo"
   }
 }
