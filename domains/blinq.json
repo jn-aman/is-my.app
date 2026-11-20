@@ -1,0 +1,10 @@
+{
+  "$schema": "../schema/domain.schema.json",
+  "owner": {
+    "github": "BackstageTalks"
+  },
+  "description": "BlinQ - follow the data",
+  "records": {
+    "CNAME": "agreeable-sky-011a7fe10.7.azurestaticapps.net"
+  }
+}
