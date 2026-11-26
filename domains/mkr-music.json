@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "github": "mkr-infinity"
+  },
+  "description": "A beautiful material expressive YT Music Client with Spotify and more.",
+  "records": {
+    "CNAME": "https://mkr-infinity.github.io/mkr-music-web/"
+  }
+}
