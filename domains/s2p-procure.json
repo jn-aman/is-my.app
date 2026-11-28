@@ -1,11 +1,1 @@
-﻿{
-  "$schema": "../schema/domain.schema.json",
-  "owner": {
-    "github": "Mayank27092003"
-  },
-  "description": "S2P Procurement SaaS Platform (Multi-Campus Buyer and Vendor Portal)",
-  "records": {
-    "CNAME": "758bbf1fcea76845.vercel-dns-017.com"
-  },
-  "vercel": "vc-domain-verify=s2p-procure.is-my.app,78721303f710bb3486f3"
-}
+{"$schema":"../schema/domain.schema.json","owner":{"github":"Mayank27092003"},"description":"S2P Procurement SaaS Platform (Multi-Campus Buyer and Vendor Portal)","records":{"CNAME":"758bbf1fcea76845.vercel-dns-017.com"},"vercel":"vc-domain-verify=s2p-procure.is-my.app,78721303f710bb3486f3"}
